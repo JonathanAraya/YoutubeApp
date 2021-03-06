@@ -11,7 +11,6 @@ class App extends React.Component {
         selectedVideo: null,
     }
 
-    // This show a videos when the page is load
     // componentDidMount(){
     //     this.handleSubmit('react js')
     // }
